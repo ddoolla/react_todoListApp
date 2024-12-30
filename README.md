@@ -47,7 +47,7 @@
 ### 3. eslint.config.js rules 프로퍼티 설정 추가
 
 ```
-"no-unused-vals": "off",
+"no-unused-vars": "off",
 "react/prop-type": "off"
 ```
 
